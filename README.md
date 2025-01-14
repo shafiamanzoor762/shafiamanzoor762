@@ -6,6 +6,20 @@
 
 ###
 
+<h4 align="left">About Me :)</h4>
+
+###
+
+<div align="left">
+  <img height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*K2WLMTExLyida7OR.gif"  />
+</div>
+
+###
+
+<p align="left">- 🔭 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🌱 I’m currently learning about "Face Recognition"<br>- 👯 I’m looking to collaborate on IOS Projects<br>- 🤔 I’m looking for help with "Face Recognition Model" that should work on kids faces with accuracy about 95%.</p>
+
+###
+
 <h5 align="left">Languages and Tools:</h5>
 
 ###
@@ -46,20 +60,8 @@
 
 ###
 
-<h4 align="left">About Me :)</h4>
-
-###
-
-<p align="left">- 🔭 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🌱 I’m currently learning about "Face Recognition"<br>- 👯 I’m looking to collaborate on IOS Projects<br>- 🤔 I’m looking for help with "Face Recognition Model" that should work on kids faces with accuracy about 95%.</p>
-
-###
-
-<img align="right" height="155" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*K2WLMTExLyida7OR.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
