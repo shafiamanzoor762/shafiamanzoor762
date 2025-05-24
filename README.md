@@ -1,6 +1,5 @@
 <h2 align="left">👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰</h2>
 
----
 
 ###
 
