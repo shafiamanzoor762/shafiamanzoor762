@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 🎓 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🔭 I’m currently learning about "Face Recognition"<br>- 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>- 🚀 Passionate about building scalable web apps and intuitive mobile experiences</p>
+<p align="left">- 🎓 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🔭 Exploring **Face Recognition Models**, focusing on high-accuracy results for children’s facial data<br>- 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>- 🚀 Passionate about building scalable web apps and intuitive mobile experiences</p>
 
 ---
 
