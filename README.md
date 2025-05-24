@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Shafia and I'm a developer 👩‍💻, from Pakistan 🇵🇰</h2>
+<h2 align="left">👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰</h2>
+
+---
 
 ###
 
@@ -6,7 +8,7 @@
 
 ###
 
-<h4 align="left">About Me :)</h4>
+<h4 align="left"> 💼 About Me :)</h4>
 
 ###
 
@@ -16,11 +18,13 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🌱 I’m currently learning about "Face Recognition"<br>- 👯 I’m looking to collaborate on IOS Projects<br>- 🤔 I’m looking for help with "Face Recognition Model" that should work on kids faces with accuracy about 95%.</p>
+<p align="left">- 🎓 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🔭 I’m currently learning about "Face Recognition"<br>- 👯 I’m looking to collaborate on IOS Projects<br>- 🤔 I’m looking for help with "Face Recognition Model" that should work on kids faces with accuracy about 95%.</p>
+
+---
 
 ###
 
-<h5 align="left">Languages and Tools:</h5>
+<h5 align="left"> 🛠️ Tech Stack & Tools:</h5>
 
 ###
 
@@ -58,11 +62,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+---
 
 ###
 
