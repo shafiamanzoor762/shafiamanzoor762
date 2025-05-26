@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰</h2>
+## 👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰
 
 
 ###
@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left"> 💼 About Me :)</h4>
+### 💼 About Me :)
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left"> 🛠️ Tech Stack & Tools:</h4>
+### 🛠️ Tech Stack & Tools:
 
 ###
 
