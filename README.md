@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="40%">
-      <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/Untitled%20design%20(2).gif" alt="GIF" height="250">
+      <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/about.gif" alt="GIF" height="250">
     </td>
   </tr>
 </table>
