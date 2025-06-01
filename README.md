@@ -73,22 +73,18 @@
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura)
-
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura)
-
-
 <table>
-  <tr>
+  <tr style="none">
     <td valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph"  />
     </td>
-    <td width="50%">
+    <td valign="top" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura" alt="Summary Card" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura" alt="Streak Stats">
     </td>
   </tr>
