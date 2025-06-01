@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura)
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura)
 
