@@ -7,18 +7,6 @@
 
 ###
 
-### 💼 About Me :)
-
-###
-
-<div align="left">
-  <img height="250" src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/Untitled%20design%20(2).gif"  />
-</div>
-
-###
-
-<p align="left">- 🎓 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🔭 Exploring "Face Recognition Models", focusing on high-accuracy results for children’s facial data<br>- 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>- 🚀 Passionate about building scalable web apps and intuitive mobile experiences</p>
-
 ---
 
 <table>
@@ -92,6 +80,19 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura)
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura)
+
+
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <h3>📊 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="200" alt="languages graph"  />
+    </td>
+    <td width="60%">
+      <img src="[https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/Untitled%20design%20(2).gif](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura)" alt="Streak Stats">
+    </td>
+  </tr>
+</table>
 
 ---
 
