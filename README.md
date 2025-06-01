@@ -15,6 +15,10 @@
   <img height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*K2WLMTExLyida7OR.gif"  />
 </div>
 
+<div align="left">
+  <img height="250" src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/Untitled%20design%20(2).gif"  />
+</div>
+
 ###
 
 <p align="left">- 🎓 I’m currently working on my university project "PHOTOGALLERY: Geo Tagging with Windows Interface"<br>- 🔭 Exploring "Face Recognition Models", focusing on high-accuracy results for children’s facial data<br>- 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>- 🚀 Passionate about building scalable web apps and intuitive mobile experiences</p>
