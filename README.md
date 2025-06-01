@@ -66,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CTue%2CWed%2CThu%2CSat)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=default)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=shades-of-purple)
 
 ---
 
