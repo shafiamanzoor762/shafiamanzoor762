@@ -82,12 +82,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura" alt="Streak Stats" height="150"/>
     </td>
   </tr>
-  <tr>
-    <td width="100%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura" alt="Summary Card" />
-    </td>
-  </tr>
 </table>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura" alt="Summary Card" />
 
 ---
 
