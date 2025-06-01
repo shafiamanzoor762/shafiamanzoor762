@@ -76,10 +76,10 @@
 <table>
   <tr style="none">
     <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="150"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura" alt="Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura" alt="Streak Stats" height="150"/>
     </td>
   </tr>
   <tr>
