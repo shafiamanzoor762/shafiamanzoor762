@@ -71,6 +71,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762)
 
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=default)
+
 ---
 
 ###
