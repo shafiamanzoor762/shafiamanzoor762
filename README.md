@@ -74,7 +74,7 @@
 ### 📊 GitHub Stats
 
 <table>
-  <tr style="none">
+  <tr>
     <td valign="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="150"/>
     </td>
