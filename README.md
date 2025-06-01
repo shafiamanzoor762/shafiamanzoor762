@@ -21,6 +21,26 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>💼 About Me :)</h3>
+      <p align="left">
+        - 🎓 I’m currently working on my university project <strong>"PHOTOGALLERY: Geo Tagging with Windows Interface"</strong><br>
+        - 🔭 Exploring <strong>"Face Recognition Models"</strong>, focusing on high-accuracy results for children’s facial data<br>
+        - 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>
+        - 🚀 Passionate about building scalable web apps and intuitive mobile experiences
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/Untitled%20design%20(2).gif" alt="GIF" height="250">
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ###
 
 ### 🛠️ Tech Stack & Tools:
