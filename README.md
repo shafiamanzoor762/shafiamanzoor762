@@ -1,5 +1,6 @@
-## 👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰
+<img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/banner.png" alt="banner">
 
+## 👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰
 
 ###
 
@@ -102,3 +103,4 @@
 </div>
 
 ###
+<img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/bottom-border.gif" alt="bottom border">
