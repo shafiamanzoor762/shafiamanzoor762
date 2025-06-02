@@ -1,4 +1,5 @@
 <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/banner.png" alt="banner">
+
 ## 👋 Hi, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰
 
 ###
@@ -100,4 +101,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/bottom-border.gif" alt="bottom border">
