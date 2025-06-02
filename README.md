@@ -1,6 +1,5 @@
 <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/banner.png" alt="banner">
 
-## Hi👋, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰
 <h2 align="center">Hi👋, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰</h2>
 
 ###
