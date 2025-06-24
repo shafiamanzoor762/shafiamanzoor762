@@ -78,12 +78,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="150"/>
     </td>
     <td width="50%">
-<!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura-dark" alt="Streak Stats" height="150"/> -->
-<!--       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/></a> -->
-<img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/>
+      <img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/>
 
-      
-    </td>
+  </td>
   </tr>
 </table>
 
