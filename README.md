@@ -79,8 +79,10 @@
     </td>
     <td width="50%">
 <!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=aura-dark" alt="Streak Stats" height="150"/> -->
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/></a>
-<!--       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shafiamanzoor762" alt="GitHub Streak" /></a> -->
+<!--       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/></a> -->
+<img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark"/>
+
+      
     </td>
   </tr>
 </table>
