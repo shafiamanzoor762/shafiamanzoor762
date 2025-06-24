@@ -25,8 +25,6 @@
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark)
-
 ---
 
 ###
@@ -108,6 +106,8 @@
 <h4 align="left">📫 How to reach me:</h4>
 
 ###
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shafia-manzoor-0b9596272/" target="_blank">
