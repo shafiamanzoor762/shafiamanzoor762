@@ -90,7 +90,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="150"/>
     </td>
     <td valign="top" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark" alt="GitHub streak stats" height="150"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=dark" alt="GitHub streak stats" height="150"/>
     </td>
   </tr>
 </table>
@@ -106,8 +106,6 @@
 <h4 align="left">📫 How to reach me:</h4>
 
 ###
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shafia-manzoor-0b9596272/" target="_blank">
