@@ -26,7 +26,6 @@
 </table>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=dark)
 
 ###
 
@@ -99,6 +98,10 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura" alt="Summary Card" />
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=dark)
 
 ---
 
