@@ -25,6 +25,7 @@
   </tr>
 </table>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=shafiamanzoor762&theme=ocean-dark)
 
 ---
 
