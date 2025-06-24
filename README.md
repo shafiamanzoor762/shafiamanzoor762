@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="300"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="200"/>
     </td>
 <!--     <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=dark" alt="GitHub streak stats" height="150"/>
