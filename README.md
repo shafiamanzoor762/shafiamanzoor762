@@ -13,8 +13,8 @@
     <td valign="top" width="60%">
       <h3>💼 About Me :)</h3>
       <p align="left">
-        - 🎓 I’m currently working on my university project <strong>"PHOTOGALLERY: Geo Tagging with Windows Interface"</strong><br>
-        - 🔭 Exploring <strong>"Face Recognition Models"</strong>, focusing on high-accuracy results for children’s facial data<br>
+        - 🎓 I’ve recently worked on my university project <strong>"PHOTOGALLERY: Geo Tagging with Windows Interface"</strong><br>
+        - 🔭 Explored <strong>"Face Recognition Models"</strong>, focusing on high-accuracy results for children’s facial data<br>
         - 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>
         - 🚀 Passionate about building scalable web apps and intuitive mobile experiences
       </p>
