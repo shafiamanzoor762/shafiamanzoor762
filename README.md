@@ -13,7 +13,7 @@
     <td valign="top" width="60%">
       <h3>💼 About Me :)</h3>
       <p align="left">
-        - 🎓 I’ve recently worked on E-Shaafi project <strong>"eShaafi: Healthcare and Telemedicine"</strong><a href="https://apps.apple.com/pk/app/eshaafi-health-telemedicine/id6739331112"> </a> <br>
+        - 🎓 I’ve recently worked on E-Shaafi project <strong>"eShaafi: Healthcare and Telemedicine"</strong><a href="https://apps.apple.com/pk/app/eshaafi-health-telemedicine/id6739331112">Live Project</a> <br>
         - 🔭 Explored <strong>"Face Recognition Models"</strong>, focusing on high-accuracy results for children’s facial data<br>
         - 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>
         - 🚀 Passionate about building scalable web apps and intuitive mobile experiences
